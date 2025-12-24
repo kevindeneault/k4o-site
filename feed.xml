@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Kevin Deneault For Olathe</title>
-    <link href="https://kevindeneault.github.io/k4o-site/feed.xml" rel="self" />
-    <link href="https://kevindeneault.github.io/k4o-site" />
+    <link href="https://kevinforolathe.com/feed.xml" rel="self" />
+    <link href="https://kevinforolathe.com" />
     <updated>2025-12-22T10:36:03-06:00</updated>
     <author>
         <name>Kevin Deneault</name>
     </author>
-    <id>https://kevindeneault.github.io/k4o-site</id>
+    <id>https://kevinforolathe.com</id>
 
     <entry>
         <title>Hey Neighbor</title>
         <author>
             <name>Kevin Deneault</name>
         </author>
-        <link href="https://kevindeneault.github.io/k4o-site/im-kevin.html"/>
-        <id>https://kevindeneault.github.io/k4o-site/im-kevin.html</id>
-        <media:content url="https://kevindeneault.github.io/k4o-site/media/posts/7/hey-neighbor-2.png" medium="image" />
+        <link href="https://kevinforolathe.com/im-kevin.html"/>
+        <id>https://kevinforolathe.com/im-kevin.html</id>
+        <media:content url="https://kevinforolathe.com/media/posts/7/hey-neighbor-2.png" medium="image" />
 
         <updated>2025-12-09T16:37:00-06:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://kevindeneault.github.io/k4o-site/media/posts/7/hey-neighbor-2.png" alt="" />
+                        <img src="https://kevinforolathe.com/media/posts/7/hey-neighbor-2.png" alt="" />
                     Hey Neighbor, I’m Kevin Deneault. I care about where Olathe is headed—and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://kevindeneault.github.io/k4o-site/media/posts/7/hey-neighbor-2.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://kevindeneault.github.io/k4o-site/media/posts/7/KevinWhiteBack2.jpg" alt="" width="291" height="364" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kevindeneault.github.io/k4o-site/media/posts/7/responsive/KevinWhiteBack2-xs.jpg 300w ,https://kevindeneault.github.io/k4o-site/media/posts/7/responsive/KevinWhiteBack2-sm.jpg 480w ,https://kevindeneault.github.io/k4o-site/media/posts/7/responsive/KevinWhiteBack2-md.jpg 768w ,https://kevindeneault.github.io/k4o-site/media/posts/7/responsive/KevinWhiteBack2-lg.jpg 1024w"></figure>
+                    <p><img src="https://kevinforolathe.com/media/posts/7/hey-neighbor-2.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://kevinforolathe.com/media/posts/7/KevinWhiteBack2.jpg" alt="" width="291" height="364" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kevinforolathe.com/media/posts/7/responsive/KevinWhiteBack2-xs.jpg 300w ,https://kevinforolathe.com/media/posts/7/responsive/KevinWhiteBack2-sm.jpg 480w ,https://kevinforolathe.com/media/posts/7/responsive/KevinWhiteBack2-md.jpg 768w ,https://kevinforolathe.com/media/posts/7/responsive/KevinWhiteBack2-lg.jpg 1024w"></figure>
 <p>Hey Neighbor,</p>
 <p>I’m Kevin Deneault. I care about where Olathe is headed—and how we get there <strong>together</strong>.</p>
 <p>To me, this means a <strong>purposeful</strong> <strong>vision</strong> for the future, building <strong>connections</strong> between people, and maintaining amazing <strong>services</strong>.</p>
@@ -44,20 +44,20 @@
         <author>
             <name>Kevin Deneault</name>
         </author>
-        <link href="https://kevindeneault.github.io/k4o-site/fourth-post.html"/>
-        <id>https://kevindeneault.github.io/k4o-site/fourth-post.html</id>
-        <media:content url="https://kevindeneault.github.io/k4o-site/media/posts/10/projects-2.png" medium="image" />
+        <link href="https://kevinforolathe.com/fourth-post.html"/>
+        <id>https://kevinforolathe.com/fourth-post.html</id>
+        <media:content url="https://kevinforolathe.com/media/posts/10/projects-2.png" medium="image" />
 
         <updated>2025-12-09T07:46:03-06:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://kevindeneault.github.io/k4o-site/media/posts/10/projects-2.png" alt="" />
+                        <img src="https://kevinforolathe.com/media/posts/10/projects-2.png" alt="" />
                     Here are just a few exciting projects happening in Olathe. Latest Garmin&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://kevindeneault.github.io/k4o-site/media/posts/10/projects-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://kevinforolathe.com/media/posts/10/projects-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Here are just a few exciting projects happening in Olathe.</p>
 <h3><strong>Garmin Campus Expansion</strong></h3>
 <p class="p3">Latest Garmin expansion focuses on employee well-being (Olathe EDC) — <a href="olathe.org/edc/olathe-business-news/blog/latest-garmin-expansion-focuses-on-employee-well-being " class="Apple-converted-space" target="_blank" rel="noopener noreferrer">olathe.org/edc/olathe-business-news/blog/latest-garmin-expansion-focuses-on-employee-well-being<span class="Apple-converted-space"> </span></a></p>
@@ -77,20 +77,20 @@
         <author>
             <name>Kevin Deneault</name>
         </author>
-        <link href="https://kevindeneault.github.io/k4o-site/learn-more.html"/>
-        <id>https://kevindeneault.github.io/k4o-site/learn-more.html</id>
-        <media:content url="https://kevindeneault.github.io/k4o-site/media/posts/9/learn-more.png" medium="image" />
+        <link href="https://kevinforolathe.com/learn-more.html"/>
+        <id>https://kevinforolathe.com/learn-more.html</id>
+        <media:content url="https://kevinforolathe.com/media/posts/9/learn-more.png" medium="image" />
 
         <updated>2025-12-09T07:45:44-06:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://kevindeneault.github.io/k4o-site/media/posts/9/learn-more.png" alt="" />
+                        <img src="https://kevinforolathe.com/media/posts/9/learn-more.png" alt="" />
                     Here are some handy links to the City of Olathe: OlatheConnect -&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://kevindeneault.github.io/k4o-site/media/posts/9/learn-more.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://kevinforolathe.com/media/posts/9/learn-more.png" class="type:primaryImage" alt="" /></p>
                 <p>Here are some handy links to the City of Olathe:</p>
 <p><a href="https://olatheks-self.govplatform.com/en/AchieveForms/?form_uri=sandbox-publish://AF-Process-52441032-1dde-4d30-bf3a-c44085f0a159/AF-Stage-46586148-c89c-41e8-afb7-10eb137a9817/definition.json&amp;redirectlink=%2Fen&amp;cancelRedirectLink=%2Fen&amp;consentMessage=yes" target="_blank" rel="noopener noreferrer">OlatheConnect</a> - Submit a request to repair a city asset. Or just ask a question. </p>
 <p><a href="https://olatheks-self.govplatform.com/en/AchieveForms/?form_uri=sandbox-publish://AF-Process-c07afd0a-8454-4f1c-bd62-15ee4320ca6c/AF-Stage-ec9b23ac-32f4-40ca-a23f-7ad6b1acaae3/definition.json&amp;redirectlink=%2Fen&amp;cancelRedirectLink=%2Fen&amp;consentMessage=yes" target="_blank" rel="noopener noreferrer">Block Party Permit Application</a> - Do you want to bring people together? Host a block party in your neighborhood. Apply here. </p>
@@ -107,20 +107,20 @@
         <author>
             <name>Kevin Deneault</name>
         </author>
-        <link href="https://kevindeneault.github.io/k4o-site/get-in-touch.html"/>
-        <id>https://kevindeneault.github.io/k4o-site/get-in-touch.html</id>
-        <media:content url="https://kevindeneault.github.io/k4o-site/media/posts/8/get-in-touch.png" medium="image" />
+        <link href="https://kevinforolathe.com/get-in-touch.html"/>
+        <id>https://kevinforolathe.com/get-in-touch.html</id>
+        <media:content url="https://kevinforolathe.com/media/posts/8/get-in-touch.png" medium="image" />
 
         <updated>2025-12-09T07:44:29-06:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://kevindeneault.github.io/k4o-site/media/posts/8/get-in-touch.png" alt="" />
+                        <img src="https://kevinforolathe.com/media/posts/8/get-in-touch.png" alt="" />
                     Loading…
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://kevindeneault.github.io/k4o-site/media/posts/8/get-in-touch.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://kevinforolathe.com/media/posts/8/get-in-touch.png" class="type:primaryImage" alt="" /></p>
                 <div class="post__iframe"><iframe loading="lazy" width="640" height="1618" src="https://docs.google.com/forms/d/e/1FAIpQLSdbpsRCKKQ1We3T0phauRLV6Bc-QAe0wvpEEsrqrPWhzXs1ew/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
             ]]>
         </content>
