@@ -1,0 +1,73 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Kevin Deneault For Olathe",
+    "description": "",
+    "home_page_url": "https://kevindeneault.github.io/k4o-site",
+    "feed_url": "https://kevindeneault.github.io/k4o-site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kevin Deneault"
+    },
+    "items": [
+        {
+            "id": "https://kevindeneault.github.io/k4o-site/im-kevin.html",
+            "url": "https://kevindeneault.github.io/k4o-site/im-kevin.html",
+            "title": "Hey Neighbor",
+            "summary": "Hey Neighbor, I’m Kevin Deneault. I care about where Olathe is headed—and&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://kevindeneault.github.io/k4o-site/media/posts/7/KevinWhiteBack2.jpg\" alt=\"\" width=\"291\" height=\"364\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://kevindeneault.github.io/k4o-site/media/posts/7/responsive/KevinWhiteBack2-xs.jpg 300w ,https://kevindeneault.github.io/k4o-site/media/posts/7/responsive/KevinWhiteBack2-sm.jpg 480w ,https://kevindeneault.github.io/k4o-site/media/posts/7/responsive/KevinWhiteBack2-md.jpg 768w ,https://kevindeneault.github.io/k4o-site/media/posts/7/responsive/KevinWhiteBack2-lg.jpg 1024w\"></figure>\n<p>Hey Neighbor,</p>\n<p>I’m Kevin Deneault. I care about where Olathe is headed—and how we get there <strong>together</strong>.</p>\n<p>To me, this means a <strong>purposeful</strong> <strong>vision</strong> for the future, building <strong>connections</strong> between people, and maintaining amazing <strong>services</strong>.</p>\n<p>I believe in planning smart growth—where new development and businesses add value to our neighborhoods, jobs to our economy, and life to our public spaces.</p>\n<p>It’s important to me to create a more <strong>connected community</strong>, where people know their neighbors, have more opportunities to interact and move within our city easily. </p>\n<p>I'll be a good steward of Olathe’s high-quality services and public safety—making sure they remain strong, reliable, and accessible to everyone.</p>\n<p>I’m here to listen to you, to be practical, and to focus on what actually improves life for the people who live here in Olathe.</p>",
+            "image": "https://kevindeneault.github.io/k4o-site/media/posts/7/hey-neighbor-2.png",
+            "author": {
+                "name": "Kevin Deneault"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-09T16:37:00-06:00",
+            "date_modified": "2025-12-21T08:24:36-06:00"
+        },
+        {
+            "id": "https://kevindeneault.github.io/k4o-site/fourth-post.html",
+            "url": "https://kevindeneault.github.io/k4o-site/fourth-post.html",
+            "title": "Projects",
+            "summary": "Here are just a few exciting projects happening in Olathe. Latest Garmin&hellip;",
+            "content_html": "<p>Here are just a few exciting projects happening in Olathe.</p>\n<h3><strong>Garmin Campus Expansion</strong></h3>\n<p class=\"p3\">Latest Garmin expansion focuses on employee well-being (Olathe EDC) — <a href=\"olathe.org/edc/olathe-business-news/blog/latest-garmin-expansion-focuses-on-employee-well-being \" class=\"Apple-converted-space\" target=\"_blank\" rel=\"noopener noreferrer\">olathe.org/edc/olathe-business-news/blog/latest-garmin-expansion-focuses-on-employee-well-being<span class=\"Apple-converted-space\"> </span></a></p>\n<h3><strong>Halo Ridge Amusement Park &amp; Hockey Arena Site</strong></h3>\n<p class=\"p3\">Olathe amusement park + sports complex update — <a href=\"johnsoncountypost.com/2025/10/21/halo-ridge-groundbreaking-update-271593 \" class=\"Apple-converted-space\" target=\"_blank\" rel=\"noopener noreferrer\">johnsoncountypost.com/2025/10/21/halo-ridge-groundbreaking-update-271593<span class=\"Apple-converted-space\"> </span></a></p>\n<h3><strong>Downtown Post Office Relocation &amp; Redevelopment</strong></h3>\n<p class=\"p3\">Downtown post office relocation and revitalization context — <a href=\"johnsoncountypost.com/2025/12/10/downtown-olathe-post-office-farmers-market-275706 \" class=\"Apple-converted-space\" target=\"_blank\" rel=\"noopener noreferrer\">johnsoncountypost.com/2025/12/10/downtown-olathe-post-office-farmers-market-275706<span class=\"Apple-converted-space\"> </span></a></p>\n<h3><strong>Santa Fe &amp; I-35 Road Improvement Project</strong></h3>\n<p class=\"p3\">I-35 and Santa Fe Corridor Improvement Project — <a href=\"olatheks.gov/government/public-works/road-closures-construction-projects/i-35-and-santa-fe-corridor-improvement-project \" class=\"Apple-converted-space\" target=\"_blank\" rel=\"noopener noreferrer\">olatheks.gov/government/public-works/road-closures-construction-projects/i-35-and-santa-fe-corridor-improvement-project<span class=\"Apple-converted-space\"> </span></a></p>\n<h3><strong>K-10 &amp; Ridgeview Mixed-Use Development</strong></h3>\n<p class=\"p3\">Heart of America mixed-use project at K-10 &amp; Ridgeview (Olathe Economic Development Council) — olathe.org <i>Business News</i> entry on the project<span class=\"Apple-converted-space\">  </span></p>",
+            "image": "https://kevindeneault.github.io/k4o-site/media/posts/10/projects-2.png",
+            "author": {
+                "name": "Kevin Deneault"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-09T07:46:03-06:00",
+            "date_modified": "2025-12-22T10:36:03-06:00"
+        },
+        {
+            "id": "https://kevindeneault.github.io/k4o-site/learn-more.html",
+            "url": "https://kevindeneault.github.io/k4o-site/learn-more.html",
+            "title": "Learn More",
+            "summary": "Here are some handy links to the City of Olathe: OlatheConnect -&hellip;",
+            "content_html": "<p>Here are some handy links to the City of Olathe:</p>\n<p><a href=\"https://olatheks-self.govplatform.com/en/AchieveForms/?form_uri=sandbox-publish://AF-Process-52441032-1dde-4d30-bf3a-c44085f0a159/AF-Stage-46586148-c89c-41e8-afb7-10eb137a9817/definition.json&amp;redirectlink=%2Fen&amp;cancelRedirectLink=%2Fen&amp;consentMessage=yes\" target=\"_blank\" rel=\"noopener noreferrer\">OlatheConnect</a> - Submit a request to repair a city asset. Or just ask a question. </p>\n<p><a href=\"https://olatheks-self.govplatform.com/en/AchieveForms/?form_uri=sandbox-publish://AF-Process-c07afd0a-8454-4f1c-bd62-15ee4320ca6c/AF-Stage-ec9b23ac-32f4-40ca-a23f-7ad6b1acaae3/definition.json&amp;redirectlink=%2Fen&amp;cancelRedirectLink=%2Fen&amp;consentMessage=yes\" target=\"_blank\" rel=\"noopener noreferrer\">Block Party Permit Application</a> - Do you want to bring people together? Host a block party in your neighborhood. Apply here. </p>\n<p><a href=\"https://olatheks-self.govplatform.com/en/AchieveForms/?form_uri=sandbox-publish://AF-Process-730b9b71-7ab2-4542-9775-eeb8de5117f8/AF-Stage-e6b34435-d5af-4b02-8f92-33e92a086014/definition.json&amp;redirectlink=%2Fen&amp;cancelRedirectLink=%2Fen&amp;consentMessage=yes\" target=\"_blank\" rel=\"noopener noreferrer\">Healthy Neighborhoods Registration</a></p>\n<p><a href=\"https://olatheks-self.govplatform.com/MyServices\" target=\"_blank\" rel=\"noopener noreferrer\">All Services</a></p>\n<p><a href=\"https://www.olatheks.gov/government/city-council\">City Council</a></p>\n<p>For inquiries about Kevin's campaign you can fill out this form:</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"1618\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSdbpsRCKKQ1We3T0phauRLV6Bc-QAe0wvpEEsrqrPWhzXs1ew/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></div>",
+            "image": "https://kevindeneault.github.io/k4o-site/media/posts/9/learn-more.png",
+            "author": {
+                "name": "Kevin Deneault"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-09T07:45:44-06:00",
+            "date_modified": "2025-12-21T08:19:59-06:00"
+        },
+        {
+            "id": "https://kevindeneault.github.io/k4o-site/get-in-touch.html",
+            "url": "https://kevindeneault.github.io/k4o-site/get-in-touch.html",
+            "title": "Get In Touch",
+            "summary": "Loading…",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"1618\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSdbpsRCKKQ1We3T0phauRLV6Bc-QAe0wvpEEsrqrPWhzXs1ew/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></div>",
+            "image": "https://kevindeneault.github.io/k4o-site/media/posts/8/get-in-touch.png",
+            "author": {
+                "name": "Kevin Deneault"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-09T07:44:29-06:00",
+            "date_modified": "2025-12-09T20:57:35-06:00"
+        }
+    ]
+}

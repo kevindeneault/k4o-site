@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kevindeneault.github.io/k4o-site/sitemap.xml
